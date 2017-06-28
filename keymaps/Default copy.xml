@@ -1,5 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$TranslateTextComponent" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad1" />
     <keyboard-shortcut first-keystroke="alt t" />
