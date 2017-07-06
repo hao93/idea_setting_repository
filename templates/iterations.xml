@@ -1,0 +1,7 @@
+<templateSet group="iterations">
+  <template name="fore" value="for($class$ $cl$ : $collection$) {&#10;  &#10;}" description="fore" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
