@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto - generated definition" />
       <item value="Native memory allocation ( malloc ) failed to allocate 283296 bytes for Chunk :: new" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue ." />
       <item value="get Pkg Recommend" />

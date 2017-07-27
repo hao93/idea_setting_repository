@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+  </SqlCodeStyleSettings>
+</code_scheme>
