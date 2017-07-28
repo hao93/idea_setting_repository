@@ -1,12 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="batch" />
-      <item value="The Dal Detail Results will be set in hints to allow client know how the operation performed in each of the shard" />
-      <item value="Insert pojos in batch mode ." />
-      <item value="Insert multiple pojos in one INSERT SQL" />
-      <item value="multiple" />
-      <item value="The Dal Detail Results will be set in hints to allow client know how the operation performed in each of the shard ." />
       <item value="auto - generated definition" />
       <item value="Native memory allocation ( malloc ) failed to allocate 283296 bytes for Chunk :: new" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue ." />
