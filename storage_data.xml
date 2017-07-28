@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partial Query" />
+      <item value="sequential Execute" />
+      <item value="set Shard Col Values" />
       <item value="Update the given pojo list one by one . By default , if a field of pojo is null value , that field will be ignored , so that it will not be updated . You can overwrite this by set update Null Field in hints ." />
       <item value="auto - generated definition" />
       <item value="Native memory allocation ( malloc ) failed to allocate 283296 bytes for Chunk :: new" />
