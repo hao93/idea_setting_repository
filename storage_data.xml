@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TEMPLATECOMMON" />
       <item value="partial Query" />
       <item value="sequential Execute" />
       <item value="set Shard Col Values" />
