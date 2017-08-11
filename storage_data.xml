@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Substitute the template entries with the generated sheet data files" />
       <item value="Test statistics are available for all tests . Methods including &quot; Test &quot; in in their names perform tests , all other methods return t - statistics . Among the &quot; Test &quot; methods , &lt; code &gt; double -&lt;/ code &gt; valued methods return p - values ; &lt; code &gt; boolean -&lt;/ code &gt; valued methods perform fixed significance level tests . Significance levels are always specified as numbers between 0 and 0.5 ( e . g . tests at the 95% level use &lt; code &gt; alpha =0.05&lt;/ code &gt;).&lt;/ p &gt;" />
       <item value="An implementation for Student ' s t - tests ." />
       <item value="TEMPLATECOMMON" />
