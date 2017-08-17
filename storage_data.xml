@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prior" />
+      <item value="in inverse" />
+      <item value="inverse" />
+      <item value="Maximum absolute error in inverse" />
       <item value="denominator" />
       <item value="numerator" />
       <item value="Substitute the template entries with the generated sheet data files" />
