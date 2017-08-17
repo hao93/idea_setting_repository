@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACCURACY" />
+      <item value="ABSOLUTE" />
+      <item value="INVERSE" />
       <item value="The default implementation generates the sample by calling" />
       <item value="Method for implementing actual optimization algorithms in derived classes ." />
       <item value="inherit Doc" />
