@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="void" />
+      <item value="clean Data" />
+      <item value="Recommend" />
       <item value="Reserved Code Cache Size" />
       <item value="synonym" />
       <item value="ACCURACY" />
@@ -48,7 +51,6 @@
       <item value="a 数字" />
       <item value="Key String List Bean" />
       <item value="Integer" />
-      <item value="support" />
     </histories>
   </component>
 </application>

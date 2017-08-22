@@ -3,6 +3,9 @@
     <option name="appId" value="6162947ee8f4659b" />
     <option name="langFrom" value="AUTO" />
     <option name="langTo" value="AUTO" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
     <option name="privateKeyConfigured" value="true" />
   </component>
 </application>
