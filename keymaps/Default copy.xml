@@ -12,4 +12,8 @@
     <keyboard-shortcut first-keystroke="alt numpad1" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
