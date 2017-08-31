@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set a rich string value for the cell ." />
       <item value="void" />
       <item value="clean Data" />
       <item value="Recommend" />
@@ -50,7 +51,6 @@
       <item value="get Profile Count" />
       <item value="a 数字" />
       <item value="Key String List Bean" />
-      <item value="Integer" />
     </histories>
   </component>
 </application>
