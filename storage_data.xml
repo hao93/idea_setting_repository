@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clones all the style information from another Cell Style , onto this one . This Cell Style will then have all the same properties as the source , but the two may be edited independently . Any stylings on this Cell Style will be lost !" />
       <item value="Set a rich string value for the cell ." />
       <item value="void" />
       <item value="clean Data" />
@@ -50,7 +51,6 @@
       <item value="stub" />
       <item value="get Profile Count" />
       <item value="a 数字" />
-      <item value="Key String List Bean" />
     </histories>
   </component>
 </application>
