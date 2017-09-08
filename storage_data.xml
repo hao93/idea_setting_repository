@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
       <item value="scale of the {@ code Big Decimal } value to be returned ." />
       <item value="set Scale" />
       <item value="Clones all the style information from another Cell Style , onto this one . This Cell Style will then have all the same properties as the source , but the two may be edited independently . Any stylings on this Cell Style will be lost !" />
@@ -50,7 +51,6 @@
       <item value="TODO Auto - generated method stub" />
       <item value="generated" />
       <item value="method" />
-      <item value="stub" />
     </histories>
   </component>
 </application>
