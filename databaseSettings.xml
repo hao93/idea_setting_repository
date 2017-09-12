@@ -1,7 +1,7 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="2">
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab Separated Values (TSV)" id="3d1a5d48-65ca-415d-acc0-dfeccb3194e1">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -11,7 +11,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="916556e3-fbc7-4626-a576-cfa3e690f46a">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
