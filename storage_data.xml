@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the pad Length found from cookie is empty , then we calc the most possible padlength by assuming its length is an integral multiple of 8." />
+      <item value="pad the session id by '='" />
+      <item value="assuming" />
       <item value="multiply" />
       <item value="scale of the {@ code Big Decimal } value to be returned ." />
       <item value="set Scale" />
@@ -48,9 +51,6 @@
       <item value="response" />
       <item value="request" />
       <item value="throws" />
-      <item value="TODO Auto - generated method stub" />
-      <item value="generated" />
-      <item value="method" />
     </histories>
   </component>
 </application>
