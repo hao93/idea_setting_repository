@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monopoly" />
       <item value="If the pad Length found from cookie is empty , then we calc the most possible padlength by assuming its length is an integral multiple of 8." />
       <item value="pad the session id by '='" />
       <item value="assuming" />
@@ -50,7 +51,6 @@
       <item value="User Info Handler" />
       <item value="response" />
       <item value="request" />
-      <item value="throws" />
     </histories>
   </component>
 </application>
