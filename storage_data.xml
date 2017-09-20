@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trace Data" />
+      <item value="Trace" />
+      <item value="save Recommend Trace Data" />
+      <item value="get Recommend Image" />
+      <item value="Recommend" />
       <item value="Monopoly" />
       <item value="If the pad Length found from cookie is empty , then we calc the most possible padlength by assuming its length is an integral multiple of 8." />
       <item value="pad the session id by '='" />
@@ -12,7 +17,6 @@
       <item value="Set a rich string value for the cell ." />
       <item value="void" />
       <item value="clean Data" />
-      <item value="Recommend" />
       <item value="Reserved Code Cache Size" />
       <item value="synonym" />
       <item value="ACCURACY" />
@@ -47,10 +51,6 @@
       <item value="Activity Entry Region Response" />
       <item value="Get Fenxiao Alliance Response Type" />
       <item value="Alliance" />
-      <item value="Add User Action Info Response Type" />
-      <item value="User Info Handler" />
-      <item value="response" />
-      <item value="request" />
     </histories>
   </component>
 </application>
