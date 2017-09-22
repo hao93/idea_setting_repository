@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The load factor used when none specified in constructor ." />
       <item value="Monopoly" />
       <item value="get Monopoly Detail List" />
       <item value="Trace Data" />
@@ -50,7 +51,6 @@
       <item value="update Resource Noprice Feedback" />
       <item value="activity Entry Type List" />
       <item value="Activity Entry Region Response" />
-      <item value="Get Fenxiao Alliance Response Type" />
     </histories>
   </component>
 </application>
