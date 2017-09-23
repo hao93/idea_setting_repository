@@ -1,19 +1,34 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$TranslateTextComponent" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl y" />
-    <keyboard-shortcut first-keystroke="alt l" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
-  <action id="EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt numpad1" />
-    <keyboard-shortcut first-keystroke="alt t" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="alt p" />
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="javaee.UpdateRunningApplication">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
 </keymap>
