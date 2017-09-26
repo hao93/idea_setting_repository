@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predict Tag Map" />
+      <item value="set Attribute" />
       <item value="The load factor used when none specified in constructor ." />
       <item value="Monopoly" />
       <item value="get Monopoly Detail List" />
@@ -49,8 +51,6 @@
       <item value="get Business Contrast" />
       <item value="summary" />
       <item value="update Resource Noprice Feedback" />
-      <item value="activity Entry Type List" />
-      <item value="Activity Entry Region Response" />
     </histories>
   </component>
 </application>
