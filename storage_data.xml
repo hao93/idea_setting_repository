@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute query by the given sql with parameters . The result will be wrapped into type defined by the given mapper ." />
       <item value="the current thread ' s value of this thread - local" />
       <item value="Returns the value in the current thread ' s copy of this thread - local variable . If the variable has no value for the current thread , it is first initialized to the value returned by an invocation of the {@ link # initial Value } method ." />
       <item value="Assertion" />
@@ -50,7 +51,6 @@
       <item value="TEMPLATECOMMON" />
       <item value="partial Query" />
       <item value="sequential Execute" />
-      <item value="set Shard Col Values" />
     </histories>
   </component>
 </application>
