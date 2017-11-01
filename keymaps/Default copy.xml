@@ -1,21 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$TranslateTextComponent" />
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
-  </action>
-  <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -25,15 +12,6 @@
     <keyboard-shortcut first-keystroke="alt numpad1" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
-  </action>
-  <action id="Images.Thumbnails.UpFolder" />
-  <action id="NextTab" />
-  <action id="PreviousTab" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt p" />
