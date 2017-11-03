@@ -1,5 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$TranslateTextComponent" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt e" />
@@ -11,6 +16,17 @@
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad1" />
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
