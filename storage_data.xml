@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Also , if a String passes the numeric test , it may still generate a Number Format Exception when parsed by Integer . parse Int or Long . parse Long , e . g . if the value is outside the range for int or long respectively .&lt;/ p &gt;" />
+      <item value="Note that the method does not allow for a leading sign , either positive or negative ." />
+      <item value="An empty Char Sequence ( length ()=0) will return {@ code false }." />
+      <item value="A decimal point is not a Unicode digit and returns false ." />
+      <item value="Checks if the Char Sequence contains only Unicode digits ." />
+      <item value="sensitive" />
       <item value="Regular linear interpolation" />
       <item value="is Infinite" />
       <item value="privilege" />
@@ -45,12 +51,6 @@
       <item value="in inverse" />
       <item value="inverse" />
       <item value="Maximum absolute error in inverse" />
-      <item value="denominator" />
-      <item value="numerator" />
-      <item value="Substitute the template entries with the generated sheet data files" />
-      <item value="argument" />
-      <item value="Test statistics are available for all tests . Methods including &quot; Test &quot; in in their names perform tests , all other methods return t - statistics . Among the &quot; Test &quot; methods , &lt; code &gt; double -&lt;/ code &gt; valued methods return p - values ; &lt; code &gt; boolean -&lt;/ code &gt; valued methods perform fixed significance level tests . Significance levels are always specified as numbers between 0 and 0.5 ( e . g . tests at the 95% level use &lt; code &gt; alpha =0.05&lt;/ code &gt;).&lt;/ p &gt;" />
-      <item value="An implementation for Student ' s t - tests ." />
     </histories>
   </component>
 </application>
