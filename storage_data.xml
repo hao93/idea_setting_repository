@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="confirm cancle" />
       <item value="Also , if a String passes the numeric test , it may still generate a Number Format Exception when parsed by Integer . parse Int or Long . parse Long , e . g . if the value is outside the range for int or long respectively .&lt;/ p &gt;" />
       <item value="Note that the method does not allow for a leading sign , either positive or negative ." />
       <item value="An empty Char Sequence ( length ()=0) will return {@ code false }." />
@@ -50,7 +51,6 @@
       <item value="prior" />
       <item value="in inverse" />
       <item value="inverse" />
-      <item value="Maximum absolute error in inverse" />
     </histories>
   </component>
 </application>
