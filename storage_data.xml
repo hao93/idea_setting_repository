@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="After all of the queries have run , we get the results in the order given and add dump the results in an array" />
       <item value="confirm cancle" />
       <item value="Also , if a String passes the numeric test , it may still generate a Number Format Exception when parsed by Integer . parse Int or Long . parse Long , e . g . if the value is outside the range for int or long respectively .&lt;/ p &gt;" />
       <item value="Note that the method does not allow for a leading sign , either positive or negative ." />
@@ -50,7 +51,6 @@
       <item value="inherit Doc" />
       <item value="prior" />
       <item value="in inverse" />
-      <item value="inverse" />
     </histories>
   </component>
 </application>
