@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicated" />
       <item value="Swaps the elements at the specified positions in the specified list ." />
       <item value="After all of the queries have run , we get the results in the order given and add dump the results in an array" />
       <item value="confirm cancle" />
@@ -50,7 +51,6 @@
       <item value="The default implementation generates the sample by calling" />
       <item value="Method for implementing actual optimization algorithms in derived classes ." />
       <item value="inherit Doc" />
-      <item value="prior" />
     </histories>
   </component>
 </application>
