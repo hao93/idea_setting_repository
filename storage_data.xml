@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number of key - value pairs in the B - tree" />
       <item value="recursive" />
       <item value="Duplicated" />
       <item value="Swaps the elements at the specified positions in the specified list ." />
@@ -50,7 +51,6 @@
       <item value="ABSOLUTE" />
       <item value="INVERSE" />
       <item value="The default implementation generates the sample by calling" />
-      <item value="Method for implementing actual optimization algorithms in derived classes ." />
     </histories>
   </component>
 </application>
