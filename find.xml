@@ -9,11 +9,6 @@
       <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.bjsc</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*。</mask>
       <mask>*.css</mask>
@@ -25,6 +20,14 @@
       <mask>*.h</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.bj</mask>
+      <mask>*.bjs</mask>
+      <mask>*.bjsc</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

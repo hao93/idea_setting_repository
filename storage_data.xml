@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number of key - value pairs in the B - tree" />
+      <item value="recursive" />
+      <item value="Duplicated" />
+      <item value="Swaps the elements at the specified positions in the specified list ." />
+      <item value="After all of the queries have run , we get the results in the order given and add dump the results in an array" />
+      <item value="confirm cancle" />
+      <item value="Also , if a String passes the numeric test , it may still generate a Number Format Exception when parsed by Integer . parse Int or Long . parse Long , e . g . if the value is outside the range for int or long respectively .&lt;/ p &gt;" />
+      <item value="Note that the method does not allow for a leading sign , either positive or negative ." />
+      <item value="An empty Char Sequence ( length ()=0) will return {@ code false }." />
+      <item value="A decimal point is not a Unicode digit and returns false ." />
+      <item value="Checks if the Char Sequence contains only Unicode digits ." />
+      <item value="sensitive" />
+      <item value="Regular linear interpolation" />
+      <item value="is Infinite" />
+      <item value="privilege" />
+      <item value="Execute query by the given sql with parameters . The result will be wrapped into type defined by the given mapper ." />
+      <item value="the current thread ' s value of this thread - local" />
+      <item value="Returns the value in the current thread ' s copy of this thread - local variable . If the variable has no value for the current thread , it is first initialized to the value returned by an invocation of the {@ link # initial Value } method ." />
+      <item value="Assertion" />
+      <item value="All possible chars for representing a number as a String" />
+      <item value="representing" />
+      <item value="vendor" />
+      <item value="artifact Id" />
+      <item value="Average" />
+      <item value="predict Tag Map" />
+      <item value="set Attribute" />
       <item value="The load factor used when none specified in constructor ." />
       <item value="Monopoly" />
       <item value="get Monopoly Detail List" />
@@ -25,32 +51,6 @@
       <item value="ABSOLUTE" />
       <item value="INVERSE" />
       <item value="The default implementation generates the sample by calling" />
-      <item value="Method for implementing actual optimization algorithms in derived classes ." />
-      <item value="inherit Doc" />
-      <item value="prior" />
-      <item value="in inverse" />
-      <item value="inverse" />
-      <item value="Maximum absolute error in inverse" />
-      <item value="denominator" />
-      <item value="numerator" />
-      <item value="Substitute the template entries with the generated sheet data files" />
-      <item value="argument" />
-      <item value="Test statistics are available for all tests . Methods including &quot; Test &quot; in in their names perform tests , all other methods return t - statistics . Among the &quot; Test &quot; methods , &lt; code &gt; double -&lt;/ code &gt; valued methods return p - values ; &lt; code &gt; boolean -&lt;/ code &gt; valued methods perform fixed significance level tests . Significance levels are always specified as numbers between 0 and 0.5 ( e . g . tests at the 95% level use &lt; code &gt; alpha =0.05&lt;/ code &gt;).&lt;/ p &gt;" />
-      <item value="An implementation for Student ' s t - tests ." />
-      <item value="TEMPLATECOMMON" />
-      <item value="partial Query" />
-      <item value="sequential Execute" />
-      <item value="set Shard Col Values" />
-      <item value="Update the given pojo list one by one . By default , if a field of pojo is null value , that field will be ignored , so that it will not be updated . You can overwrite this by set update Null Field in hints ." />
-      <item value="auto - generated definition" />
-      <item value="Native memory allocation ( malloc ) failed to allocate 283296 bytes for Chunk :: new" />
-      <item value="There is insufficient memory for the Java Runtime Environment to continue ." />
-      <item value="get Pkg Recommend" />
-      <item value="get Business Contrast" />
-      <item value="summary" />
-      <item value="update Resource Noprice Feedback" />
-      <item value="activity Entry Type List" />
-      <item value="Activity Entry Region Response" />
     </histories>
   </component>
 </application>

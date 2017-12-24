@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="auto make">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+    </macro>
+    <macro name="refesh run">
+      <action id="javaee.UpdateRunningApplication" />
+    </macro>
+  </component>
+</application>

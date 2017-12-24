@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="D:\Users\hao.zhang\Documents\cmder\Cmder.exe" />
+    <option name="myTabName" value="terminal" />
+  </component>
+</application>
