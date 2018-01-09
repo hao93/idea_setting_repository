@@ -14,17 +14,9 @@
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
             </list>
           </option>
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
     </option>
