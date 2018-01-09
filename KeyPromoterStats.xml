@@ -3,8 +3,11 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="2" />
+        <entry key="'Alt+5'" value="1" />
+        <entry key="'Alt+6'" value="2" />
         <entry key="'Ctrl+Alt+S'" value="1" />
-        <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="8" />
+        <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="10" />
+        <entry key="'Shift+F9'" value="1" />
       </map>
     </option>
   </component>
