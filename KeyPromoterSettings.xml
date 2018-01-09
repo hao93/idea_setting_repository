@@ -1,0 +1,7 @@
+<application>
+  <component name="KeyPromoterSettings">
+    <option name="displayTime" value="2000" />
+    <option name="flashAnimationDelay" value="100" />
+    <option name="popupTemplate" value="&lt;html&gt;&#10; &lt;body&gt;&#10;  &lt;table&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=6&gt;{0}&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;  &lt;/table&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;" />
+  </component>
+</application>
