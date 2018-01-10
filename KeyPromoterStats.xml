@@ -2,7 +2,7 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+1'" value="8" />
+        <entry key="'Alt+1'" value="11" />
         <entry key="'Alt+4'" value="5" />
         <entry key="'Alt+5'" value="15" />
         <entry key="'Alt+6'" value="2" />
@@ -11,12 +11,12 @@
         <entry key="'Ctrl+Alt+S'" value="11" />
         <entry key="'Ctrl+Alt+向右箭头' or 'Button5 Click' or 'Alt+向右箭头'" value="1" />
         <entry key="'Ctrl+Alt+向左箭头' or 'Button4 Click' or 'Alt+向左箭头'" value="1" />
-        <entry key="'Ctrl+F10'" value="1" />
+        <entry key="'Ctrl+F10'" value="2" />
         <entry key="'Ctrl+F2'" value="8" />
         <entry key="'Ctrl+F5'" value="3" />
         <entry key="'Ctrl+Shift+F8'" value="1" />
         <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="10" />
-        <entry key="'F9'" value="8" />
+        <entry key="'F9'" value="15" />
         <entry key="'Shift+F9'" value="6" />
       </map>
     </option>
