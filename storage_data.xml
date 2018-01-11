@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VARCHAR" />
+      <item value="get Event By Thirdid" />
       <item value="need Custom Interval" />
       <item value="&lt; p &gt; See the description of the class &lt; code &gt; Date &lt;/ code &gt; for a discussion of slight discrepancies that may arise between &quot; computer time &quot; and coordinated universal time ( UTC )." />
       <item value="Returns the current time in milliseconds . Note that while the unit of time of the return value is a millisecond , the granularity of the value depends on the underlying operating system and may be larger . For example , many operating systems measure time in units of tens of milliseconds ." />
@@ -49,8 +51,6 @@
       <item value="multiply" />
       <item value="scale of the {@ code Big Decimal } value to be returned ." />
       <item value="set Scale" />
-      <item value="Clones all the style information from another Cell Style , onto this one . This Cell Style will then have all the same properties as the source , but the two may be edited independently . Any stylings on this Cell Style will be lost !" />
-      <item value="Set a rich string value for the cell ." />
     </histories>
   </component>
 </application>
