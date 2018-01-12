@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the absolute value of a {@ code double } value ." />
+      <item value="Returns a {@ code Big Decimal } whose value is {@ code ( this / divisor )}, and whose scale is as specified . If rounding must be performed to generate a result with the specified scale , the specified rounding mode is applied ." />
+      <item value="divide" />
       <item value="Returns the index within this string of the first occurrence of the specified substring ." />
       <item value="negative Zero Double Bits" />
       <item value="Returns the greater of two {@ code double } values ." />
@@ -48,9 +51,6 @@
       <item value="save Recommend Trace Data" />
       <item value="get Recommend Image" />
       <item value="Recommend" />
-      <item value="If the pad Length found from cookie is empty , then we calc the most possible padlength by assuming its length is an integral multiple of 8." />
-      <item value="pad the session id by '='" />
-      <item value="assuming" />
     </histories>
   </component>
 </application>
