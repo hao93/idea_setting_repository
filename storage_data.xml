@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@ code true } if and only if the specified {@ code Object } is a {@ code Big Decimal } whose value and scale are equal to this {@ code Big Decimal }' s ." />
+      <item value="the value {@ code 0} if {@ code d 1} is numerically equal to {@ code d 2}; a value less than {@ code 0} if {@ code d 1} is numerically less than {@ code d 2}; and a value greater than {@ code 0} if {@ code d 1} is numerically greater than {@ code d 2}." />
+      <item value="Compares the two specified {@ code double } values . The sign of the integer value returned is the same as that of the integer that would be returned by the call :" />
       <item value="Returns the absolute value of a {@ code double } value ." />
       <item value="Returns a {@ code Big Decimal } whose value is {@ code ( this / divisor )}, and whose scale is as specified . If rounding must be performed to generate a result with the specified scale , the specified rounding mode is applied ." />
       <item value="divide" />
@@ -48,9 +51,6 @@
       <item value="get Monopoly Detail List" />
       <item value="Trace Data" />
       <item value="Trace" />
-      <item value="save Recommend Trace Data" />
-      <item value="get Recommend Image" />
-      <item value="Recommend" />
     </histories>
   </component>
 </application>
