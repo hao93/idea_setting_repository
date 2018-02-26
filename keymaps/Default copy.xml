@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="$TranslateTextComponent" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -9,13 +13,15 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad1" />
-    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />

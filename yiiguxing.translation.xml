@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="AUTO" />
+    <histories>
+      <item value="the benefit of hash table" />
+      <item value="Returns a hash code value for the object. This method is * supported for the benefit of hash tables such as those provided by" />
+      <item value="tables" />
+      <item value="such" />
+      <item value="provided" />
+      <item value="by" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6162947ee8f4659b" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
