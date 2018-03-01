@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Gets the designated column's suggested title for use in printouts and * displays. The suggested title is usually specified by the SQL &lt;code&gt;AS&lt;/code&gt; * clause. If a SQL &lt;code&gt;AS&lt;/code&gt; is not specified, the value returned from * &lt;code&gt;getColumnLabel&lt;/code&gt; will be the same as the value returned by the * &lt;code&gt;getColumnName&lt;/code&gt; method. *" />
       <item value="the benefit of hash table" />
       <item value="Returns a hash code value for the object. This method is * supported for the benefit of hash tables such as those provided by" />
       <item value="tables" />
