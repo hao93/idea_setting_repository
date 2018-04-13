@@ -1,9 +1,15 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <attributes>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4b9fff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />

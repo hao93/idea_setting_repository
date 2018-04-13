@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="$TranslateTextComponent" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -39,7 +42,6 @@
   </action>
   <action id="SaveAll" />
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
 </keymap>
