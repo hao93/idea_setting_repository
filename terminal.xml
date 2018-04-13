@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
+    <option name="myShellPath" value="C:\cygwin64\Cygwin.bat" />
     <option name="myTabName" value="terminal" />
   </component>
 </application>
