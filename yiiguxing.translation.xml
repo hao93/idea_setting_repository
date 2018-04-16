@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="fetch" />
+      <item value="Retrieves the fetch size for this" />
       <item value="bus Assistant" />
       <item value="partial Query" />
       <item value="compress" />
