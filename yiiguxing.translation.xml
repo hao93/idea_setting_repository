@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose preferred scale is {@code (this.scale() - * divisor.scale())}; if the exact quotient cannot be * represented (because it has a non-terminating decimal * expansion) an {@code ArithmeticException} is thrown. *" />
       <item value="fetch" />
       <item value="Retrieves the fetch size for this" />
       <item value="bus Assistant" />
