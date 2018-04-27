@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="The ending index, exclusive." />
+      <item value="The beginning index, inclusive." />
       <item value="milliseconds" />
       <item value="nanoseconds" />
       <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose preferred scale is {@code (this.scale() - * divisor.scale())}; if the exact quotient cannot be * represented (because it has a non-terminating decimal * expansion) an {@code ArithmeticException} is thrown. *" />
