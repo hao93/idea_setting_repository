@@ -1,8 +1,13 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <SqlCodeStyleSettings>
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="KEEP_LINE_BREAKS" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
