@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Waits for this thread to die." />
       <item value="The ending index, exclusive." />
       <item value="The beginning index, inclusive." />
       <item value="milliseconds" />
