@@ -3,5 +3,8 @@
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cl" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
 </templateSet>
