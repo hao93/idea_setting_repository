@@ -1,7 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="3">
     <option name="error-in-editor" value="false" />
-    <text-mode>
+    <text-mode in-literals="false">
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="$a.b.c$?" />
