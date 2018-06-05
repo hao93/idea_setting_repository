@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Determines if the specified character is a letter." />
       <item value="Rivest" />
       <item value="Leiserson" />
       <item value="Cormen" />
