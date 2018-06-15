@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="sn" value="if (StringUtils.isNotBlank($VAR$)){&#10;    $END$&#10;}" description="StringUtils.isNotBlank" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
