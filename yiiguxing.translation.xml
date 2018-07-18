@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="if true, don't change existing value" />
       <item value="transient" />
       <item value="Returns the absolute value of an {@code int} value." />
       <item value="Milliseconds" />
