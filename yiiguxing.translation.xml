@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="milliseconds" />
       <item value="All rights reserved" />
       <item value="affiliates" />
       <item value="if true, don't change existing value" />
@@ -22,7 +23,6 @@
       <item value="guaranteed" />
       <item value="lowest" />
       <item value="task with the lowest nextExecutionTime" />
-      <item value="milliseconds" />
       <item value="Waits for this thread to die." />
       <item value="The ending index, exclusive." />
       <item value="The beginning index, inclusive." />
