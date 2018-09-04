@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="proxies" type="PLAIN_TEXT" />
+      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="bjsc" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
