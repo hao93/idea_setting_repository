@@ -3,10 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="the difference, measured in milliseconds, between * the current time and midnight, January 1, 1970 UTC." />
+      <item value="milliseconds" />
       <item value="floor Div" />
       <item value="portrait" />
       <item value="orientation" />
-      <item value="milliseconds" />
       <item value="Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down." />
       <item value="Metric Kylin Type" />
       <item value="denominator Agg" />
@@ -52,7 +53,6 @@
       <item value="tables" />
       <item value="such" />
       <item value="provided" />
-      <item value="by" />
     </histories>
   </component>
   <component name="Settings">
