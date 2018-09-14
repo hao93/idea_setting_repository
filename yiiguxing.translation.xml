@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="parse Sql To DSL" />
       <item value="set Sensitive" />
       <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
       <item value="the difference, measured in milliseconds, between * the current time and midnight, January 1, 1970 UTC." />
@@ -52,7 +53,6 @@
       <item value="Gets the designated column's suggested title for use in printouts and * displays. The suggested title is usually specified by the SQL &lt;code&gt;AS&lt;/code&gt; * clause. If a SQL &lt;code&gt;AS&lt;/code&gt; is not specified, the value returned from * &lt;code&gt;getColumnLabel&lt;/code&gt; will be the same as the value returned by the * &lt;code&gt;getColumnName&lt;/code&gt; method. *" />
       <item value="the benefit of hash table" />
       <item value="Returns a hash code value for the object. This method is * supported for the benefit of hash tables such as those provided by" />
-      <item value="tables" />
     </histories>
   </component>
   <component name="Settings">
