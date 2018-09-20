@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="* Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * day of the month. This is a synonym for &lt;code&gt;DAY_OF_MONTH&lt;/code&gt;. * The first day of the month has value 1." />
+      <item value="* Adds the specified (signed) amount of time to the given calendar field, * based on the calendar's rules." />
       <item value="reverse" />
       <item value="parse Sql To DSL" />
       <item value="set Sensitive" />
@@ -51,8 +53,6 @@
       <item value="tempalte" />
       <item value="flush immediately" />
       <item value="emit" />
-      <item value="Gets the designated column's suggested title for use in printouts and * displays. The suggested title is usually specified by the SQL &lt;code&gt;AS&lt;/code&gt; * clause. If a SQL &lt;code&gt;AS&lt;/code&gt; is not specified, the value returned from * &lt;code&gt;getColumnLabel&lt;/code&gt; will be the same as the value returned by the * &lt;code&gt;getColumnName&lt;/code&gt; method. *" />
-      <item value="the benefit of hash table" />
     </histories>
   </component>
   <component name="Settings">
