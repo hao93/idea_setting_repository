@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="if this list changed as a result of the call" />
+      <item value="f this list changed as a result of the call" />
       <item value="* Field number for &lt;code&gt;get&lt;/code&gt; and &lt;code&gt;set&lt;/code&gt; indicating the * day of the month. This is a synonym for &lt;code&gt;DAY_OF_MONTH&lt;/code&gt;. * The first day of the month has value 1." />
       <item value="* Adds the specified (signed) amount of time to the given calendar field, * based on the calendar's rules." />
       <item value="reverse" />
@@ -51,8 +53,6 @@
       <item value="check Positive" />
       <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
       <item value="tempalte" />
-      <item value="flush immediately" />
-      <item value="emit" />
     </histories>
   </component>
   <component name="Settings">
